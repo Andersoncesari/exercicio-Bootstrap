@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: 	#E6E6FA;
+}
+
+.caixa-maior{
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
